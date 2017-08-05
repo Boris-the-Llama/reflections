@@ -18,6 +18,7 @@ The staging areas lets you see what changes you have made and how they differ fr
 and allows you to change them if you want. So it allows you to see exactly what you are changing, and in all the files,
 to make sure you don't make one commit for changes in each file.
 
+
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Although I find them quite confusing to sort out, I see how branches can help. If you have the basic code/format and want to 
@@ -25,3 +26,10 @@ have different versions, for things such as language, region/nation, age etc, it
 same time, instead of just one. It would help you have branches coming off the main code, so you just have to add a few
 bits of smaller code rather than start again. It would also allow you to make experimental changes while keeping the 
 working one live. 
+
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams make it easier for me personally to see what is happening, where each commit lies and how they interract with each other. It
+lets me think of it in a clearer way, and once I have done a diagram I can use it several times to look at things such as
+expected commits, parents, what is unreachable in git log, the different branches etc. 
