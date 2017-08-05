@@ -10,3 +10,18 @@ How is the staging area different from the working directory and the repository?
 The repository is the final stage, the working directory is the general folder, the staging area lets you see what changes
 you have made/can make before you commit them. If you are happy you can commit them. I suppose it keeps the Git cleaner, as 
 you wont have commits that people are unhappy with and then change straight after. So cleaner directory and code. 
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging areas lets you see what changes you have made and how they differ from the ones in the working depository, 
+and allows you to change them if you want. So it allows you to see exactly what you are changing, and in all the files,
+to make sure you don't make one commit for changes in each file.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Although I find them quite confusing to sort out, I see how branches can help. If you have the basic code/format and want to 
+have different versions, for things such as language, region/nation, age etc, it allows you to offer different versions at the
+same time, instead of just one. It would help you have branches coming off the main code, so you just have to add a few
+bits of smaller code rather than start again. It would also allow you to make experimental changes while keeping the 
+working one live. 
