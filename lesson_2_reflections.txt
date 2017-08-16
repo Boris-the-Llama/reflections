@@ -44,3 +44,23 @@ two seperate branches. It is represented in the diagram with a break to indicate
 where it ended. As though they are merged together, it is good to have a visual aid to help you remember where the 
 branches were merged. It reminds me of a roller coaster, as it shows how they were seperate tracks but they have now 
 joined. 
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging pros;
+Easier.
+Faster.
+
+Cons;
+Can make changes that are unneccesary.
+Will have to guess at what to change. 
+
+
+Manual pros;
+Always in control so know what is being changed
+Can decide what to change.
+
+Cons;
+Longer.
+Harder as have to identify code.
