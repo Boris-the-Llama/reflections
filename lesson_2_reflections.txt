@@ -33,3 +33,14 @@ How do the diagrams help you visualize the branch structure?
 Diagrams make it easier for me personally to see what is happening, where each commit lies and how they interract with each other. It
 lets me think of it in a clearer way, and once I have done a diagram I can use it several times to look at things such as
 expected commits, parents, what is unreachable in git log, the different branches etc. 
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging the two branches together is one branch or version of some code that has different sets of features 
+merged into one, so instead of having two seperate branches of code, it is now one. Git log will show people the commits 
+and when features were introduced, so people can access those commits. It is a streamlined process and easier than having 
+two seperate branches. It is represented in the diagram with a break to indicate where the other branch started and 
+where it ended. As though they are merged together, it is good to have a visual aid to help you remember where the 
+branches were merged. It reminds me of a roller coaster, as it shows how they were seperate tracks but they have now 
+joined. 
