@@ -8,3 +8,17 @@ Why might you want to always pull changes manually rather than having Git automa
 So that if I am working on a project on different computers, I don't want github automatically being pulled to the local computer each time,
 as I would have multiple files all over the place. It will also be beneficial sometimes to have some stuff not pushed to github, so before I want
 people to see it. 
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A branch is a series of commits that make up a certain version of a project, eg the main branch might be in English, another branch might be 
+in Spanish etc. Or could be easy and hard branches. 
+
+A clone is copying one git repo from github and placing it on your own computer. 
+
+A fork is similar to cloning, but instead of copying it to your computer, you copy it to github. 
+
+A branch would be used for a different version as mentioned above. 
+Cloning would be used when you want to be able to take a project and copy it to your own computer to work on, look at etc on your own. 
+Forking would be used when you want to collaborate with others, or edit files publically in github. 
