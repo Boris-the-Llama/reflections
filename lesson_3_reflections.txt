@@ -22,3 +22,13 @@ A fork is similar to cloning, but instead of copying it to your computer, you co
 A branch would be used for a different version as mentioned above. 
 Cloning would be used when you want to be able to take a project and copy it to your own computer to work on, look at etc on your own. 
 Forking would be used when you want to collaborate with others, or edit files publically in github. 
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+I don't know fully. I'm guessing so that if you can't access the internet or github for what ever reason, you have your own copy?
+So you can see what it was like before other people made changes, especially if there are conflicts in collaborative projects. 
+
+
+
+
