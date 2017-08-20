@@ -30,5 +30,14 @@ I don't know fully. I'm guessing so that if you can't access the internet or git
 So you can see what it was like before other people made changes, especially if there are conflicts in collaborative projects. 
 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without using git or github, I think people would collaborate by sharing files over googledocs, or editing files and then emailing them to each other. 
+
+Easier:
+Sending the files, saving them, not worrying about git or github if you haven't used them before.
+
+Harder:
+Viewing other's changes, keeping track of changes, combining different code. 
 
 
