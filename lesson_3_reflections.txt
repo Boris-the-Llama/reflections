@@ -41,3 +41,8 @@ Harder:
 Viewing other's changes, keeping track of changes, combining different code. 
 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you have copied or forked a repo, and want to leave master as the main one with a seperate one to make experimental changes. It is easier
+to collaborate with a seperate branch and then making pull requests, instead of everyone changing the master branch. Woking in the master would save some
+time not spent doing pull-requests, merging etc.
